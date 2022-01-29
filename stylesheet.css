@@ -1,3 +1,4 @@
+<style>
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
@@ -583,3 +584,4 @@ address a:hover {
         font-size: 28px
     }
 }
+</style>
